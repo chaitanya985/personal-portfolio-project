@@ -17,10 +17,20 @@ export default function Projects() {
             <h2 className="text-xl text-center text-stone-50">
               collegewala
             </h2>
-            {/* <p className="text-stone-50 text-justify">
-              This is a project built on react which tracks your progess in dsa 
-              and stores that in the local storage.
-            </p> */}
+            {<p className="text-stone-50 text-justify">
+              <p className="text-stone-50 text-center font-bold">May 2024 - Aug 2024</p><br/>
+              Developed a college finder website with Next.js,
+              Prisma, Tailwind CSS and Edgestore which allows
+              administrators to add and manage college profiles.
+              Each profile includes the college name, description,
+              location, accepted entrance exams, available streams,
+              and college type. Users can search for colleges based
+              on location, streams, and type, filtering results to
+              find suitable options. Detailed information about 
+              each college is displayed on dedicated pages. An "Apply Now"
+              button redirects users to the respective college's website 
+              for application.
+            </p>}
             <div className="flex gap-4 justify-center">
               {/* <a href="https://your-demo-url.vercel.app" 
                  className="px-4 py-2 bg-indigo-600 text-white rounded-full hover:bg-indigo-700 transition">
@@ -51,10 +61,19 @@ export default function Projects() {
             <h2 className="text-xl text-center text-stone-50">
               u learn
             </h2>
-            {/* <p className="text-stone-50 text-justify">
-              This is a project built on react which tracks your progess in dsa 
-              and stores that in the local storage.
-            </p> */}
+            {<p className="text-stone-50 text-justify">
+              <p className="text-stone-50 text-center font-bold">Sep 2024 - Nov 2024</p><br/>
+              Developed a online course platform with 
+              Next.js, Prisma, MongoDB, Tailwind CSS, 
+              and TypeScript. It features user authentication 
+              via NextAuth.js, enabling secure login and 
+              registration. Users can create, manage, and 
+              search courses by keyword, including adding 
+              video content and notes. All course and user 
+              data is stored in a MongoDB database. Users
+               can also manage a "cart" to track completed 
+               courses, adding and removing items as needed.
+            </p>}
             <div className="flex gap-4 justify-center">
               {/* <a href="https://your-demo-url.vercel.app" 
                  className="px-4 py-2 bg-indigo-600 text-white rounded-full hover:bg-indigo-700 transition">
@@ -85,10 +104,19 @@ export default function Projects() {
             <h2 className="text-xl text-center text-stone-50">
               sanity hub
             </h2>
-            {/* <p className="text-stone-50 text-justify">
-              This is a project built on react which tracks your progess in dsa 
-              and stores that in the local storage.
-            </p> */}
+            {<p className="text-stone-50 text-justify">
+              <p className="text-stone-50 text-center font-bold">Feb 2024 - Apr 2024</p><br/>
+              Developed a e-commerce clothing store with React, 
+              Next.js 15, TypeScript, Sanity.io, Stripe, and 
+              Shadcn UI. It features distinct sections for men's
+              , women's, kids', and senior's clothing. Users can
+              view detailed product information, including rati
+              ngs, prices, and estimated delivery times. The app
+              lication supports adding items to a cart and direct
+              purchase options with integrated payment processing
+              using Stripe payment processing. The Sanity.io is 
+              used for content management for the store.
+            </p>}
             <div className="flex gap-4 justify-center">
               {/* <a href="https://your-demo-url.vercel.app" 
                  className="px-4 py-2 bg-indigo-600 text-white rounded-full hover:bg-indigo-700 transition">
@@ -119,10 +147,18 @@ export default function Projects() {
             <h2 className="text-xl text-center text-stone-50">
               personal portfolio
             </h2>
-            {/* <p className="text-stone-50 text-justify">
-              This is a project built on react which tracks your progess in dsa 
-              and stores that in the local storage.
-            </p> */}
+            {<p className="text-stone-50 text-justify">
+              <p className="text-stone-50 text-center font-bold">Feb 2023 - Mar 2023</p><br/>
+              Implemented a personal portfolio website using React 
+              and styled with Tailwind CSS. It showcases my skills,
+              experience, projects, and blog posts in a clean and 
+              modern design. The responsive layout ensures optimal 
+              viewing across various devices. Key features include 
+              smooth navigation between sections and a visually 
+              appealing presentation of content. The project 
+              demonstrates proficiency in front-end development 
+              with React and Tailwind CSS
+            </p>}
             <div className="flex gap-4 justify-center">
               {/* <a href="https://your-demo-url.vercel.app" 
                  className="px-4 py-2 bg-indigo-600 text-white rounded-full hover:bg-indigo-700 transition">
