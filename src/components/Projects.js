@@ -133,7 +133,7 @@ export default function Projects() {
                  className="px-4 py-2 bg-gray-700 text-white rounded-full hover:bg-gray-800 transition">
                 Code
               </a>
-              {<a href="https://youtube.com/your-video-url" 
+              {<a href="https://drive.google.com/file/d/1BEy9Bh26kkZLQK3UhQe3fFsUhsvCvbz3/view?usp=drive_link" 
                  target="_blank"
                  className="px-4 py-2 bg-red-600 text-white rounded-full hover:bg-red-700 transition">
                 Demo
