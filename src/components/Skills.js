@@ -85,9 +85,9 @@ export default function Skills() {
 							className="object-contain h-20 w-20 hover:scale-[120%] transition-transform duration-300 ease-in-out"/> 
 					</div>
 					<div className="flex-1"> 
-							<img src="https://skillicons.dev/icons?i=postgresql&theme=light"
-							alt="postgresql.svg"
-							title="PostgreSQL"
+							<img src="https://skillicons.dev/icons?i=git&theme=light"
+							alt="git.svg"
+							title="Git"
 							className="object-contain h-20 w-20 hover:scale-[120%] transition-transform duration-300 ease-in-out"/>
 					</div>
 				</div> 
@@ -95,35 +95,12 @@ export default function Skills() {
 			<span>
 				<div className="mt-10 flex gap-5 justify-center 
 								flex-wrap mx-auto max-w-xl"> 
-					<div className="flex-1"> 
-							<img src="https://skillicons.dev/icons?i=postman&theme=light"
-							alt="postman.svg"
-							title="Postman"
-							className="object-contain h-20 w-20 hover:scale-[120%] transition-transform duration-300 ease-in-out"/>
-					</div>
-					<div className="flex-1"> 
-							<img src="https://skillicons.dev/icons?i=git&theme=light"
-							alt="git.svg"
-							title="Git"
-							className="object-contain h-20 w-20 hover:scale-[120%] transition-transform duration-300 ease-in-out"/>
-					</div>
-					<div className="flex-1"> 
-							<img src="https://skillicons.dev/icons?i=firebase&theme=light"
-							alt="firebase.svg"
-							title="Firebase"
-							className="object-contain h-20 w-20 hover:scale-[120%] transition-transform duration-300 ease-in-out"/> 
-					</div>
 					<div className="flex-1"> 
 							<img src="https://skillicons.dev/icons?i=gcp&theme=light"
 							alt="gcp.svg"
 							title="Google Cloud Platform"
 							className="object-contain h-20 w-20 hover:scale-[120%] transition-transform duration-300 ease-in-out"/>
 					</div>
-				</div> 
-			</span>
-			<span>
-				<div className="mt-10 flex gap-5 justify-center 
-								flex-wrap mx-auto max-w-xl"> 
 					<div className="flex-1"> 
 							<img src="https://skillicons.dev/icons?i=docker&theme=light"
 							alt="docker.svg"
@@ -135,12 +112,6 @@ export default function Skills() {
 							alt="linux.svg"
 							title="Linux"
 							className="object-contain h-20 w-20 hover:scale-[120%] transition-transform duration-300 ease-in-out"/>
-					</div>
-					<div className="flex-1"> 
-							<img src="https://skillicons.dev/icons?i=vscode&theme=light"
-							alt="vscode.svg"
-							title="Visual Studio Code"
-							className="object-contain h-20 w-20 hover:scale-[120%] transition-transform duration-300 ease-in-out"/> 
 					</div>
 					<div className="flex-1"> 
 							<img src="https://skillicons.dev/icons?i=figma&theme=light"
