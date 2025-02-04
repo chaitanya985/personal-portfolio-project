@@ -16,11 +16,11 @@ export default function Hero() {
 		{<p style={{fontFamily: "Tahoma"}} className="text-center text-stone-50"> 
 			Fresh Graduate | Software Developer
 		</p>}
-		{/* <a href="https://drive.google.com/file/d/1EsaClj_1KZPxX2Sop-5XUKlk_noPYEyZ/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+		<a href="https://drive.google.com/file/d/1EsaClj_1KZPxX2Sop-5XUKlk_noPYEyZ/view?usp=sharing" target="_blank" rel="noopener noreferrer">
 			<Button className="px-1 py-1 bg-gray-400 text-white font-semibold rounded-lg transition-colors duration-200 hover:scale-105">
 				Download Resume
 			</Button>
-		</a> */}
+		</a>
 		<div className="flex gap-4 mt-4">
 			<a href="https://www.hackerrank.com/profile/chaitanya_panic1" target="_blank" rel="noopener noreferrer">
 				<img src="./assets/hackerrankicon.png" alt="HackerRank" className="mt-2 w-8 h-8 hover:scale-[120%] transition-transform duration-300 ease-in-out filter invert" />
