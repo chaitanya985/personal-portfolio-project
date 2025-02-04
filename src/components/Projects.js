@@ -15,7 +15,7 @@ export default function Projects() {
           </div>
           <div className="flex flex-col align-center mx-auto gap-4 justify-center flex-1">
             <h2 className="text-xl text-center text-stone-50">
-              collegewala
+              COLLEGEWALA
             </h2>
             {<p className="text-stone-50 text-justify">
               <p className="text-stone-50 text-center font-bold">May 2024 - Aug 2024</p><br/>
@@ -59,7 +59,7 @@ export default function Projects() {
           </div>
           <div className="flex flex-col align-center mx-auto gap-4 justify-center flex-1">
             <h2 className="text-xl text-center text-stone-50">
-              u learn
+              U LEARN
             </h2>
             {<p className="text-stone-50 text-justify">
               <p className="text-stone-50 text-center font-bold">Sep 2024 - Nov 2024</p><br/>
@@ -102,7 +102,7 @@ export default function Projects() {
           </div>
           <div className="flex flex-col align-center mx-auto gap-4 justify-center flex-1">
             <h2 className="text-xl text-center text-stone-50">
-              sanity hub
+              SANITY HUB
             </h2>
             {<p className="text-stone-50 text-justify">
               <p className="text-stone-50 text-center font-bold">Feb 2024 - Apr 2024</p><br/>
@@ -145,7 +145,7 @@ export default function Projects() {
           </div>
           <div className="flex flex-col align-center mx-auto gap-4 justify-center flex-1">
             <h2 className="text-xl text-center text-stone-50">
-              personal portfolio
+              PERSONAL PORTFOLIO
             </h2>
             {<p className="text-stone-50 text-justify">
               <p className="text-stone-50 text-center font-bold">Feb 2023 - Mar 2023</p><br/>

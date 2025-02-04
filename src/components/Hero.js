@@ -1,4 +1,4 @@
-// import { Button } from "react-bootstrap";
+import { Button } from "react-bootstrap";
 
 export default function Hero() { 
 	return ( 
@@ -10,17 +10,17 @@ export default function Hero() {
 		<div className="flex-1 flex flex-col justify-center items-center gap-5"> 
 		<div>  
 			<h2 style={{fontFamily: "Tahoma"}} className="text-center text-stone-50 text-5xl font-bold"> 
-			My Portfolio Website 
+			My Personal Portfolio
 			</h2> 
 		</div> 
-		<p style={{fontFamily: "Tahoma"}} className="text-center text-stone-50"> 
-			Student at D Y Patil International University and a Aspiring Software Developer
-		</p>
-		{/* <a href="https://www.google.com" target="_blank" rel="noopener noreferrer">
+		{<p style={{fontFamily: "Tahoma"}} className="text-center text-stone-50"> 
+			Fresh Graduate | Software Developer
+		</p>}
+		<a href="https://www.google.com" target="_blank" rel="noopener noreferrer">
 			<Button className="px-1 py-1 bg-gray-400 text-white font-semibold rounded-lg transition-colors duration-200 hover:scale-105">
 				Download Resume
 			</Button>
-		</a> */}
+		</a>
 		<div className="flex gap-4 mt-4">
 			<a href="https://www.hackerrank.com/profile/chaitanya_panic1" target="_blank" rel="noopener noreferrer">
 				<img src="./assets/hackerrankicon.png" alt="HackerRank" className="mt-2 w-8 h-8 hover:scale-[120%] transition-transform duration-300 ease-in-out filter invert" />

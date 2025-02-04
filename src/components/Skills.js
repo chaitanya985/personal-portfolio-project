@@ -96,9 +96,9 @@ export default function Skills() {
 				<div className="mt-10 flex gap-5 justify-center 
 								flex-wrap mx-auto max-w-xl"> 
 					<div className="flex-1"> 
-							<img src="https://skillicons.dev/icons?i=gcp&theme=light"
-							alt="gcp.svg"
-							title="Google Cloud Platform"
+							<img src="https://skillicons.dev/icons?i=vercel&theme=light"
+							alt="vercel.svg"
+							title="Vercel"
 							className="object-contain h-20 w-20 hover:scale-[120%] transition-transform duration-300 ease-in-out"/>
 					</div>
 					<div className="flex-1"> 

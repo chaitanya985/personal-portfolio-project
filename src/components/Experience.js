@@ -18,10 +18,10 @@ export default function Experience() {
         >
           <div className="flex flex-col gap-2">
             <h2 className="font-bold text-2xl text-stone-50">
-              Full Stack Developer Intern
+              FULL STACK DEVELOPER INTERN
             </h2>
             <h3 className="text-xl text-indigo-400">
-              Talentspot Services
+              TALENTSPOT SERVICES
             </h3>
             <p className="text-gray-400 text-sm">
               Apr 2023 - Sep 2023
@@ -45,10 +45,10 @@ export default function Experience() {
         >
           <div className="flex flex-col gap-2">
             <h2 className="font-bold text-2xl text-stone-50">
-              Python Mentor
+              PYTHON MENTOR
             </h2>
             <h3 className="text-xl text-indigo-400">
-              Exercism.org
+              EXERCISM.ORG
             </h3>
             <p className="text-gray-400 text-sm">
               Aug 2024 - Present
