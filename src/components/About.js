@@ -13,7 +13,7 @@ export default function About() {
 					</h2> 
 				</div>  
 				<p style={{fontFamily: "Tahoma"}} class="text-center text-stone-50"> Hello! I'm Chaitanya, <br/>I'm seeking an opportunity to contribute my skills and knowledge 
-                to a dynamic organization that values innovation and fosters growth. With a strong foundation in programming 
+                to a dynamic organization that values innovation and fosters growth. With a good foundation in programming 
                     languages and a passion for problem-solving, I aim to continuously 
                     learn and grow in the field of software engineering. 
 				</p> 

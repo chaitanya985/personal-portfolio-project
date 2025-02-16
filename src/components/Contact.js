@@ -12,7 +12,7 @@ export default function Contact() {
                 <a style={{color:"white"}} rel="noreferrer"
                    target="_blank"
                    className="text-center hover:text-indigo-600 transition-colors duration-300 flex flex-col items-center hover:scale-[120%] transition-transform ease-in-out"
-                   href="https://www.linkedin.com/in/chaitanya-panicker985074/">
+                   href="https://www.linkedin.com/in/chaitanyapanicker98/">
                     <FaLinkedin className="text-4xl mb-2 " />
                     <span className="font-bold">LinkedIn</span>
                 </a>
