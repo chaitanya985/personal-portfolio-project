@@ -18,6 +18,10 @@ const Certificates = () => {
       img: require("./images/cert4.png"),
       link: "https://coursera.org/share/f506749e073ab366c31e035254e4d15c"
     },
+    {
+      img: require("./images/cert5.png"),
+      link: "https://drive.google.com/file/d/1hEG2Yb-z0rdXmD3Skmsz27wpHAir-zUc/view?usp=drive_link"
+    },
   ];
 
   return (
