@@ -8,7 +8,7 @@ export default function About() {
 							items-center gap-10 px-20"> 
 				<div> 
 					<h2 style={{fontFamily:"Tahoma"}} className="text-stone-50 
-								text-4xl font-bold mb-5 pb-2 border-b-[5px] border-indigo-600 gap-10 text-center"> 
+								text-4xl font-bold mb-5 pb-2 border-b-[5px] border-indigo-600 gap-10 mx-auto"> 
 						About Me
 					</h2> 
 				</div>  
