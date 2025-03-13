@@ -10,7 +10,7 @@ export default function Hero() {
 		<div className="flex-1 flex flex-col justify-center items-center gap-5"> 
 		<div>  
 			<h2 style={{fontFamily: "Tahoma"}} className="text-center text-stone-50 text-5xl font-bold"> 
-			My Website
+			My Portfolio Website
 			</h2> 
 		</div> 
 		{<p style={{fontFamily: "Tahoma"}} className="text-center text-stone-50"> 
