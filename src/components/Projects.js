@@ -20,7 +20,7 @@ export default function Projects() {
             {<p className="text-stone-50 text-justify">
               <p className="text-stone-50 text-center font-bold">May 2024 - Aug 2024</p><br/>
               Developed a college finder website with Next.js,
-              Prisma, Tailwind CSS and Edgestore which allows
+              React, Tailwind CSS, PostgreSQL and Edgestore which allows
               administrators to add and manage college profiles.
               Each profile includes the college name, description,
               location, accepted entrance exams, available streams,

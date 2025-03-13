@@ -6,10 +6,10 @@ const Certificates = () => {
       img: require("./images/cert1.jpg"),
       link: "https://www.udemy.com/certificate/UC-226b4f09-0e78-4810-b981-3fd73e1a0233/"
     },
-    {
-      img: require("./images/cert2.png"),
-      link: "https://coursera.org/share/6c2847fe552ae471087d525d8412abb4"
-    },
+    // {
+    //   img: require("./images/cert2.png"),
+    //   link: "https://coursera.org/share/6c2847fe552ae471087d525d8412abb4"
+    // },
     {
       img: require("./images/cert3.png"),
       link: "https://coursera.org/share/de7b3fe7b6861b1906f48907dfaa9854"

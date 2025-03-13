@@ -16,7 +16,7 @@ export default function Hero() {
 		{<p style={{fontFamily: "Tahoma"}} className="text-center text-stone-50"> 
 			Software Developer
 		</p>}
-		<a href="https://drive.google.com/file/d/1UIwUkAvysavcvbz4UFSLdJMteQhf-cSe/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+		<a href="https://drive.google.com/file/d/1N8x3KeKes2fuLsQqgUukDzq4nPJDJ3zl/view?usp=sharing" target="_blank" rel="noopener noreferrer">
 			<Button className="px-1 py-1 bg-gray-400 text-white font-semibold rounded-lg transition-colors duration-200 hover:scale-105">
 				Download Resume
 			</Button>

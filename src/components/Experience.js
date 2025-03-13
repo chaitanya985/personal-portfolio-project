@@ -28,7 +28,7 @@ export default function Experience() {
             </p>
           </div>
           <ul className="text-stone-50 list-disc pl-4 space-y-2">
-            <li>Successfully implemented a new screen-sharing feature in the video conferencing application, leading to a 15% increase in user satisfaction</li>
+            <li>Successfully implemented a new screen-sharing feature in the video conferencing application, leading to a 5% increase in user satisfaction</li>
             <li>Optimized website navigation, resulting in a 10% increase in user engagement</li>
             <li>Gained knowledge of React.js, Node.js, Express.js, MongoDB, WebSockets and WebRTC</li>
           </ul>
@@ -55,7 +55,7 @@ export default function Experience() {
             </p>
           </div>
           <ul className="text-stone-50 list-disc pl-4 space-y-2">
-            <li>Actively mentoring over 60 aspiring Python developers on Exercism.org platform, guiding them through challenging coding exercises</li>
+            <li>Actively mentoring over 70 Python developers on Exercism.org platform, guiding them through challenging coding exercises</li>
             <li>Increased their problem-solving skills by an average of 20% and Achieved an 86% satisfaction rating</li>
             <li>Gained reputation above 300 points and completed more than 70 sessions</li>
           </ul>
