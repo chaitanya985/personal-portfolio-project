@@ -28,9 +28,9 @@ export default function Experience() {
             </p>
           </div>
           <ul className="text-stone-50 list-disc pl-4 space-y-2">
-            <li>Successfully implemented a new screen-sharing feature in the video conferencing application, leading to a 5% increase in user satisfaction</li>
-            <li>Optimized website navigation, resulting in a 10% increase in user engagement</li>
-            <li>Gained knowledge of React.js, Node.js, Express.js, MongoDB, WebSockets and WebRTC</li>
+            <li>Contributed to the development of a screen-sharing feature, enhancing user experience and improving satisfaction</li>
+            <li>Assisted in optimizing website navigation, leading to a smoother user experience</li>
+            <li>Worked with React.js, Node.js, and MongoDB, implementing WebSockets and WebRTC for real-time audio and video communication</li>
           </ul>
         </motion.div>
 
@@ -51,13 +51,13 @@ export default function Experience() {
               EXERCISM.ORG
             </h3>
             <p className="text-gray-400 text-sm">
-              Aug 2024 - Present
+              Aug 2024 - Dec 2024
             </p>
           </div>
           <ul className="text-stone-50 list-disc pl-4 space-y-2">
-            <li>Actively mentoring over 70 Python developers on Exercism.org platform, guiding them through challenging coding exercises</li>
-            <li>Increased their problem-solving skills by an average of 20% and Achieved an 86% satisfaction rating</li>
-            <li>Gained reputation above 300 points and completed more than 70 sessions</li>
+            <li>Mentored 70+ Python developers on Exercism.org, helping them tackle challenging coding exercises</li>
+            <li>Provided detailed feedback and guidance, improving their problem-solving abilities and coding efficiency</li>
+            <li>Achieved an 86% satisfaction rating and earned 300+ reputation points through active mentorship</li>
           </ul>
         </motion.div>
       </div>
