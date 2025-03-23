@@ -14,6 +14,14 @@ const Certificates = () => {
       img: require("./images/cert3.png"),
       link: "https://coursera.org/share/de7b3fe7b6861b1906f48907dfaa9854"
     },
+    {
+      img: require("./images/cert1.png"),
+      link: "https://drive.google.com/file/d/1-DwnrU7Xxim2RfpS8UXMZ8I3afPs-VIn/view?usp=sharing"
+    },
+    {
+      img: require("./images/cert2.jpg"),
+      link: "https://drive.google.com/file/d/13zVbAX2OW-DBfvSWVZ806bC6pbM5Uh0i/view?usp=sharing"
+    },
     // {
     //   img: require("./images/cert4.png"),
     //   link: "https://coursera.org/share/f506749e073ab366c31e035254e4d15c"

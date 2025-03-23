@@ -30,13 +30,13 @@ export default function Contact() {
                     <FaGithub className="text-4xl mb-2" />
                     <span className="font-bold">GitHub</span>
                 </a>
-                <a style={{color:"white"}} rel="noreferrer"
+                {/* <a style={{color:"white"}} rel="noreferrer"
                    target="_blank"
                    className="text-center hover:text-indigo-600 transition-colors duration-300 flex flex-col items-center hover:scale-[120%] transition-transform duration-300 ease-in-out"
                    href="https://wa.me/9850741837">
                     <FaWhatsapp className="text-4xl mb-2" />
                     <span className="font-bold">Message</span>
-                </a>
+                </a> */}
             </div>
         </section>
     );

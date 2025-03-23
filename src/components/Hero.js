@@ -10,11 +10,11 @@ export default function Hero() {
 		<div className="flex-1 flex flex-col justify-center items-center gap-5"> 
 		<div>  
 			<h2 style={{fontFamily: "Tahoma"}} className="text-center text-stone-50 text-5xl font-bold"> 
-			My Portfolio Website
+			Chaitanya Panicker
 			</h2> 
 		</div> 
 		{<p style={{fontFamily: "Tahoma"}} className="text-center text-stone-50"> 
-			Software Developer | Recent CSE Graduate | Seeking Entry Level Software Development Roles
+			Software Developer ✦ Recent CSE Graduate ✦ Seeking Entry Level Software Development Roles
 		</p>}
 		{/* <a href="https://drive.google.com/file/d/1N8x3KeKes2fuLsQqgUukDzq4nPJDJ3zl/view?usp=sharing" target="_blank" rel="noopener noreferrer">
 			<Button className="px-1 py-1 bg-gray-400 text-white font-semibold rounded-lg transition-colors duration-200 hover:scale-105">
