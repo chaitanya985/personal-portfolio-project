@@ -10,7 +10,7 @@ export default function Navbar() {
     const navItems = [
         { name: 'About', href: '#about' },
         { name: 'Skills', href: '#skills' },
-        { name: 'Projects', href: '#project' },
+        { name: 'Projects', href: '#projects' },
         { name: 'Experience', href: '#experience' },
         { name: 'Certificates', href: '#certificates' },
         { name: 'Blogs', href: '#blog' },
@@ -19,7 +19,7 @@ export default function Navbar() {
     ];
 
     return (
-        <nav className="fixed top-0 left-0 w-full bg-gray-900 z-50">
+        <nav className="fixed top-0 left-0 w-full bg-slate-800 z-50">
             <div className="max-w-7xl mx-auto px-4">
                 <div className="flex justify-between items-center h-16">
                     {/* Logo/Brand */}

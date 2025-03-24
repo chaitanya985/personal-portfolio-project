@@ -9,12 +9,12 @@ export default function Hero() {
 				mb-16 lg:mt-10 max-w-5xl mx-auto lg:gap-0 h-[80vh]"> 
 		<div className="flex-1 flex flex-col justify-center items-center gap-5"> 
 		<div>  
-			<h2 style={{fontFamily: "Tahoma"}} className="text-center text-stone-50 text-5xl font-bold"> 
+			<h2 style={{fontFamily: "Bahnschrift"}} className="text-center text-stone-50 text-5xl font-bold"> 
 			Chaitanya Panicker
 			</h2> 
 		</div> 
-		{<p style={{fontFamily: "Tahoma"}} className="text-center text-stone-50"> 
-			Software Developer ✦ Recent CSE Graduate ✦ Seeking Entry Level Software Development Roles
+		{<p style={{fontFamily: "Bahnschrift"}} className="text-center text-stone-50"> 
+			Aspiring Software Developer
 		</p>}
 		{/* <a href="https://drive.google.com/file/d/1N8x3KeKes2fuLsQqgUukDzq4nPJDJ3zl/view?usp=sharing" target="_blank" rel="noopener noreferrer">
 			<Button className="px-1 py-1 bg-gray-400 text-white font-semibold rounded-lg transition-colors duration-200 hover:scale-105">
@@ -23,13 +23,13 @@ export default function Hero() {
 		</a> */}
 		<div className="flex gap-4 mt-4">
 			<a href="https://www.hackerrank.com/profile/chaitanya_panic1" target="_blank" rel="noopener noreferrer">
-				<img src="./assets/hackerrankicon.png" alt="HackerRank" className="mt-2 w-8 h-8 hover:scale-[120%] transition-transform duration-300 ease-in-out filter invert" />
+				<img src="./assets/hackerrankicon.png" alt="HackerRank" title="HackerRank" className="mt-2 w-8 h-8 hover:scale-[120%] transition-transform duration-300 ease-in-out filter invert" />
 			</a>
 			<a href="https://leetcode.com/u/chaitanya985/" target="_blank" rel="noopener noreferrer">
-				<img src="./assets/leetcodeicon.png" alt="LeetCode" className="mt-2 w-8 h-8 hover:scale-[120%] transition-transform duration-300 ease-in-out filter invert" />
+				<img src="./assets/leetcodeicon.png" alt="LeetCode" title="LeetCode" className="mt-2 w-8 h-8 hover:scale-[120%] transition-transform duration-300 ease-in-out filter invert" />
 			</a>
 			<a href="https://www.geeksforgeeks.org/user/chaitanya98507/" target="_blank" rel="noopener noreferrer">
-				<img src="./assets/gfgicon.png" alt="GeeksforGeeks" className="w-12 h-12 hover:scale-[120%] transition-transform duration-300 ease-in-out filter invert" />
+				<img src="./assets/gfgicon.png" alt="GeeksforGeeks" title="GeeksforGeeks" className="w-12 h-12 hover:scale-[120%] transition-transform duration-300 ease-in-out filter invert" />
 			</a>
 		</div>
 		</div> 
