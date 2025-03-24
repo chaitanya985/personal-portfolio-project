@@ -63,14 +63,14 @@ const Certificates = () => {
         })}
       </div>
       
-      {/* <div className="text-center mt-10">
+      {<div className="text-center mt-10">
         <a
-          href="#certificates"
+          href="https://www.linkedin.com/in/chaitanyapanicker98/details/certifications/"
           className="btn bg-accent border-2 border-[#7477FF] text-white px-6 py-3 hover:bg-transparent rounded-full"
         >
-          See all certificates
+          See all Certificates
         </a>
-      </div> */}
+      </div>}
     </section>
   );
 };

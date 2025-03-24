@@ -56,7 +56,7 @@ const Blog = () => {
           href="https://medium.com/@chaitanya.panicker98"
           className="btn bg-accent border-2 border-[#7477FF] text-white px-8 py-3 hover:bg-transparent inline-block rounded-full"
         >
-          Show More Blogs
+          See all Blogs
         </a>
       </div>
     </section>
